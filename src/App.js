@@ -122,5 +122,3 @@ const PRODUCTS = [
 export default function App() {
   return <FilterableProductTable products={PRODUCTS} />;
 }
-
-// This completes code for Searchable Product Table using React library

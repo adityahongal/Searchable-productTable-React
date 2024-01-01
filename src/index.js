@@ -9,5 +9,3 @@ root.render(
     <App />
   </StrictMode>
 );
-
-// The source index.js file
